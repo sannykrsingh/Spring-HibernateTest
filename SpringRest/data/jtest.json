@@ -1,0 +1,13 @@
+{
+  "id" : 101,
+  "firstName" : "sanny",
+  "lastName" : "kumar",
+  "active" : "active",
+  "address":{
+  	"street":"praksh_layout",
+  	"city":"Bangalore",
+  	"state":"karnataka"
+  },
+  "languages":["Java","C#","Python"],
+  "nameofacc":"ach.inc"
+}
